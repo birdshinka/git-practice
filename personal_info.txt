@@ -1,3 +1,4 @@
 Name: Shogo Muranaka
 
 Favorite Subject: Computer Science
+Learning Git is fun!
